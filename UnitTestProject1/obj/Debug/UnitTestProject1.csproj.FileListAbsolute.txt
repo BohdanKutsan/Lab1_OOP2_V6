@@ -1,0 +1,9 @@
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\Lab1_OOP2.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\Lab1_OOP2.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\UnitTestLab1_OOP2.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\bin\Debug\UnitTestLab1_OOP2.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\obj\Debug\UnitTestLab1_OOP2.dll
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\UnitTestProject1\obj\Debug\UnitTestLab1_OOP2.pdb

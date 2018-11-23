@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.exe.config
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\bin\Debug\Lab1_OOP2.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\Lab1_OOP2\Lab1_OOP2\obj\Debug\Lab1_OOP2.csprojResolveAssemblyReference.cache
